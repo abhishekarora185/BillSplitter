@@ -1,0 +1,21 @@
+Abhishek Vaishnavi Sriram Nisha Prem Meghana Sukanya Hiba Nishant Koustubh
+ITEM CheeseNachos 375 Sriram Nisha Prem Meghana Sukanya Hiba Nishant Koustubh
+ITEM FiestaNachos 415 Sriram Nisha Prem Meghana Sukanya Hiba Nishant Koustubh
+ITEM BeefNachos 445 Abhishek Vaishnavi
+ITEM VegEnchiladas 415 Sriram Nisha Prem Meghana Sukanya Hiba Nishant Koustubh
+ITEM QuesadillaCornBean 340 Sriram Nisha Prem Meghana Sukanya Hiba Nishant Koustubh
+ITEM QuesadillaChicken 365 Vaishnavi
+ITEM VegTaco 730 Sriram Nisha Prem Meghana Sukanya Hiba Nishant Koustubh
+ITEM ChickenTaco 415 Abhishek
+ITEM ChocolateTresLeches 245 Abhishek Sriram Nisha Prem Meghana Sukanya Hiba Nishant Koustubh
+ITEM JackDaniels 595 Nishant
+ITEM CranberryFizz 430 Prem Sriram
+ITEM AsianFever 170 Koustubh
+ITEM LemonGrassDelight 340 Nisha Meghana
+ITEM ThaiIcedTea 170 Abhishek
+ITEM Soda 55 Nishant
+ITEM TenderloinBurrito 395 Abhishek
+ITEM ZucchiniCornPotato 650 Sriram Nisha Prem Meghana Sukanya Hiba Nishant Koustubh
+ITEM ZucchiniCornBurritoBowl 395 Sriram Nisha Prem Meghana Sukanya Hiba Nishant Koustubh
+ITEM EpasoteMushroomBurritoBowl 395 Sriram Nisha Prem Meghana Sukanya Hiba Nishant Koustubh
+TOTAL 9705

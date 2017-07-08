@@ -1,0 +1,18 @@
+Abhishek Prem Nishant Vaishnavi Saravanan
+ITEM BCompany 350 Prem Saravanan
+ITEM Nachos 245 ALL
+ITEM Wings 650 Abhishek Vaishnavi Saravanan
+ITEM CornCheeseNibbles 235 ALL
+ITEM AeratedWater 95 Nishant
+ITEM CornKernels 410 ALL
+ITEM PotatoWedges 195 ALL
+ITEM FieryChicken 225 Abhishek Vaishnavi Saravanan
+ITEM JalapenoPoppers 235 ALL
+ITEM CrazyColonel 390 Prem Saravanan
+ITEM PeriPeriFries 205 ALL
+ITEM Sangria 675 Abhishek Nishant Vaishnavi
+ITEM WhiskeySour 295 Abhishek
+ITEM OldMonk 125 Nishant
+ITEM LIIT 650 Abhishek Nishant
+ITEM WhiskeyMarmalade 590 Abhishek Nishant
+TOTAL 7017

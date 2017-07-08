@@ -1,0 +1,10 @@
+Abhishek Prem Saravanan Vaishnavi
+ITEM NamprikChicken 300 Abhishek Vaishnavi
+ITEM CaliforniaMaki 475 Abhishek Vaishnavi
+ITEM WontonMeeVeg 375 Prem Saravanan
+ITEM NasiGoreng 425 Vaishnavi
+ITEM KhowSuey 400 Abhishek
+ITEM SchezwanFriedRice 300 Prem Saravanan
+ITEM VietnameseSummerRoll 275 Prem Saravanan
+ITEM Bandrek 95 Abhishek
+TOTAL 3511
